@@ -1,10 +1,13 @@
-                                        # 👋 Hi, I'm Utkarsh Sinha
+<div align="center">
 
-🎓 3rd-year CSE Student  
-💻 Python • Java • DSA • Full Stack  
-📍 India  
+# 👋 Hi, I'm Utkarsh Sinha
 
----
+### 🎓 3rd Year CSE Student  
+### 💻 Python • Java • DSA • Full Stack  
+### 📍 India  
+
+</div>
+
 
 ## 🧠 About Me
 
