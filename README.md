@@ -1,13 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Utkarsh Sinha
+<h1>👋 Hi, I'm Utkarsh Sinha</h1>
 
-### 🎓 3rd Year CSE Student  
-### 💻 Python • Java • DSA • Full Stack  
-### 📍 India  
+<p>
+🎓 3rd-year CSE Student <br>
+💻 Python • Java • DSA • Full Stack <br>
+📍 India
+</p>
 
 </div>
-
 
 ## 🧠 About Me
 
